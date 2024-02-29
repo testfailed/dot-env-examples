@@ -8,10 +8,10 @@ GEM
     lockbox (1.3.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    nio4r (2.5.9)
-    puma (6.3.0)
+    nio4r (2.7.0)
+    puma (6.4.2)
       nio4r (~> 2.0)
-    rack (2.2.7)
+    rack (2.2.8.1)
     rack-protection (3.0.6)
       rack
     ruby2_keywords (0.0.5)
@@ -27,7 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv-vault (~> 0.10.1)
-  puma (~> 6.3)
+  puma (~> 6.4)
   sinatra (~> 3.0)
 
 BUNDLED WITH
